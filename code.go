@@ -1,5 +1,5 @@
 package myfunc
 
 func Sub(a, b int) int {
-	return a - b
+	return a - b - 1
 }
